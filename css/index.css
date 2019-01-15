@@ -269,9 +269,10 @@ footer {
         
        
     }
-    .logo {
+    header .logo {
         
         height: auto;
+        margin: 28px 0 0px 0;
         
 
     }
